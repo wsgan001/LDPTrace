@@ -1,7 +1,7 @@
 # LDPTrace
 
 <div align=center>
-<img src=./fig/LDPTrace.png width="80%" ></img>
+<img src=./fig/LDPTrace.png width="60%" ></img>
 </div>
 
 This is our Pytorch implementation for the paper:
