@@ -1,10 +1,10 @@
 # LDPTrace
 
 <div align=center>
-<img src=./fig/LDPTrace.png width="60%" ></img>
+<img src=./fig/LDPTrace.png width="50%" ></img>
 </div>
 
-This is our Pytorch implementation for the paper:
+This is our Python implementation for the paper:
 
 > Yuntao Du, Yujia Hu, Zhikun Zhang, Ziquan Fang, Lu Chen, Baihua Zheng and Yunjun Gao (2022). LDPTrace: Locally Differentially Private Trajectory Synthesis
 
